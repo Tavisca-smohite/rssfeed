@@ -1,12 +1,102 @@
 ﻿.evedivcolor {
-background-color: rgb(194, 240, 255);
-
+background-color:#E1DFD5;
+border-radius:15px 15px;
 }
 .odddivcolor {
-background-color:rgb(255, 224, 254);
-
+background-color:#D1D0D4;
+border-radius:15px 15px;
 }
 .pad {
-padding-bottom:2%;
+padding-bottom:5%;
 }
 
+.margin-per-div {
+margin: 0px 10px;
+}
+
+.align-button {
+text-align:center;
+}
+.margin-p {
+margin-left:20px;
+margin-right:20px;
+margin-top:6px;
+margin-bottom:10px;
+}
+
+.pad-p {
+padding-top:20px;
+}
+
+.entry-title {
+font-size: 15px;
+font-weight: bolder;
+}
+.container-fluid {
+margin-left:5%;
+margin-right:5%;
+}
+
+.margin-row {
+margin-right: 0px;
+margin-left: 0px;
+}
+
+.sub-header-color {
+color: #7B8DB9;
+}
+.color-header {
+background-color: #4B6C9E;
+margin: -20px 0 4px;
+padding-top:12px;
+
+}
+
+.sub-header {
+background-Color:#3A4F63;
+padding: 1px 12px 5px;
+margin-bottom: -19px;
+}
+.pad-col {
+padding-top:6px;
+}
+
+.pad-left-bottom {
+padding-left:40px;
+padding-bottom:2px;
+}
+.font-vary {
+font-variant: small-caps;
+}
+
+.font-title {
+font-size: 19px;
+margin-left:20px;
+margin-right:20px;
+margin-top:9px;
+margin-bottom:3px;
+}
+.margins {
+margin-left:20px;
+margin-right:20px;
+}
+
+h2 {
+    color:white;
+    font-weight: bold;
+}
+
+h2 small {
+color:white;
+font-weight: bold;
+}
+
+h5 {
+    color:#7B8DB9;
+    font-weight: bold;
+}
+
+h5 small {
+color:#7B8DB9;
+font-weight: bold;
+}
